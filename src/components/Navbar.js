@@ -1,6 +1,6 @@
 import { ArrowRightIcon } from "@heroicons/react/solid";
 import React from "react";
-import { Icon } from 'semantic-ui-react'
+import { Icon } from 'semantic-ui-react';
 
 export default function Navbar() {
   return (
@@ -10,7 +10,7 @@ export default function Navbar() {
           
           {/* Logo */}
           <a href="#about" className="ml-3 text-xl text-green-500">
-            Foti Ceci
+            Sunny Zhang
           </a>
         </a>
 
@@ -24,8 +24,8 @@ export default function Navbar() {
           </a>
         </nav>
         <div className="inline-flex items-center border-0 py-1 px-3 mt-4 md:mt-0">
-          <a className="mr-5" href="https://github.com/fotinh0" target="_blank" rel="noopener noreferrer"><Icon circular inverted name='github' /></a>
-          <a className="mr-5" href="https://www.linkedin.com/in/foti-ceci/" target="_blank" rel="noopener noreferrer"><Icon circular inverted color='blue' name='linkedin' /></a>
+          <a className="mr-5" href="https://github.com/Zsunnyfc1" target="_blank" rel="noopener noreferrer"><Icon circular inverted name='github' /></a>
+          <a className="mr-5" href="https://www.linkedin.com/in/sunny-zhang-3a773214b/" target="_blank" rel="noopener noreferrer"><Icon circular inverted color='blue' name='linkedin' /></a>
         </div>
         
         {/* Hire Me Button */}

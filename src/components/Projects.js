@@ -15,7 +15,7 @@ export default function Projects() {
           </h1>
           <p>
             Web projects I have built using various skills and technologies. <br className="hidden lg:inline-block"/>
-            Visit my <a className="inline font-bold text-green-500 hover:text-malibu-700" href="https://github.com/fotinh0">GitHub</a> to view additional projects.
+            Visit my <a className="inline font-bold text-green-500 hover:text-malibu-700" href="https://github.com/Zsunnyfc1">GitHub</a> to view additional projects.
           </p>
         </div>
 

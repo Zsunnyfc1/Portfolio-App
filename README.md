@@ -1,7 +1,4 @@
-# Foti Ceci Portfolio
-
-This is the source code to my personal portfolio.
-Visit at: [www.foticeci.com](https://www.foticeci.com) 
+# Sunny Zhang Portfolio
 
 <!-- 
 ## Screenshot 
@@ -28,6 +25,4 @@ Visit at: [www.foticeci.com](https://www.foticeci.com)
 - [How to Build a Portfolio Website with React by Reed Barger](https://www.freecodecamp.org/news/build-portfolio-website-react/)
 ## Author
 
-- GitHub - [@Fotinh0](https://github.com/fotinh0)
-- Website - [www.foticeci.com](https://www.foticeci.com) 
-- LinkedIn - [@Foti-Ceci](https://www.linkedin.com/in/foti-ceci/)
+

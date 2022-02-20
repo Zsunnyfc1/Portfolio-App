@@ -59,7 +59,7 @@ export default function Contact() {
                 EMAIL
               </h2>
               <a className="text-malibu-500 leading-relaxed">
-                foti.ceci@gmail.com
+                sunzhang101@gmail.com
               </a>
             </div>
           </div>
