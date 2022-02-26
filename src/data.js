@@ -71,7 +71,5 @@ export const skills = [
   "JavaScript / jQuery",
   "React",
   "Node / Express.js",
-  "MongoDB / Mongoose",
-  "Git & Version Control",
-  "WordPress"
+  "Git & Version Control"
 ];

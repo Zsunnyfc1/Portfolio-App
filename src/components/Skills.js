@@ -14,7 +14,7 @@ export default function Skills() {
             Skills &amp; Technologies
           </h1>
           <p className="leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto text-xl">
-            Skills and techonoligies I have implemented in previous projects.
+            Skills and technologies implemented in the projects above.
           </p>
         </div>
 

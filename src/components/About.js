@@ -8,11 +8,11 @@ export default function About() {
           {/* Hero Description */}
           <h1 className="title-font sm:text-4xl text-5xl mb-4 font-medium text-white">
             Hi there! I'm <span className="text-green-500 font-bold">Sunny</span>.  
-            <br className="hidden lg:inline-block" /> Your creative web development partner.
+            <br className="hidden lg:inline-block" /> A creative web developer.
           </h1>
           <p className="my-8 leading-relaxed text-2xl">
             I am a junior web developer based in New York City with a passion for learning and becoming better everyday. 
-            I specialize in front-end developement with a working knowledge of back-end technologies.  
+            I specialize in front-end development along with knowledge in back-end development.  
           </p>
 
           {/* Buttons */}
@@ -26,6 +26,11 @@ export default function About() {
               href="#projects"
               className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
               View Projects
+            </a>
+            <a
+              href="#skills"
+              className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
+              View Skills
             </a>
           </div>
         </div>

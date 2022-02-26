@@ -28,11 +28,11 @@ export default function Navbar() {
           <a className="mr-5" href="https://www.linkedin.com/in/sunny-zhang-3a773214b/" target="_blank" rel="noopener noreferrer"><Icon circular inverted color='blue' name='linkedin' /></a>
         </div>
         
-        {/* Hire Me Button */}
+        {/* Contact Me Button */}
         <a
           href="#contact"
           className="inline-flex items-center text-base text-gray-400 border-0 py-1 px-3 focus:outline-none hover:bg-green-500 hover:text-white rounded mt-4 md:mt-0">
-          Hire Me
+          Contact Me
           <ArrowRightIcon className="w-4 h-4 ml-1" />
         </a>
       </div>

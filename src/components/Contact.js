@@ -75,7 +75,7 @@ export default function Contact() {
           Let's Get In Touch
           </h2>
           <p className="leading-relaxed mb-5 sm:text-md text-xl">
-          Are you interested in networking and collaborating? Feel free to send me a message!
+            Feel free to send me a message!
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-lg text-gray-400">

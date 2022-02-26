@@ -15,24 +15,26 @@ export default function Projects() {
           </h1>
           <p>
             Web projects I have built using various skills and technologies. <br className="hidden lg:inline-block"/>
-            Visit my <a className="inline font-bold text-green-500 hover:text-malibu-700" href="https://github.com/Zsunnyfc1">GitHub</a> to view additional projects.
+            Visit my <a className="inline font-bold text-green-500 hover:text-malibu-700" href="https://github.com/Zsunnyfc1" target="_blank" rel="noopener noreferrer">GitHub</a> to view additional projects.
+          <br></br>
+            Visit my <a className="inline font-bold text-lightblue-500 hover:text-malibu-700" href="https://www.linkedin.com/in/sunny-zhang-3a773214b/" target="_blank" rel="noopener noreferrer">linkedin</a> to learn more about me.
           </p>
         </div>
 
         {/* Projects Cards */}
-        <div className="flex flex-wrap -m-4">
+        <div className="flex flex-wrap -m-2">
           {projects.map((project) => (
             <a
               href={project.link}
               key={project.image}
-              className="sm:w-1/2 w-100 p-4">
-              <div className="flex relative">
+              className="sm:w-1/2 w-100 p-7">
+              <div className="flex relative border-4 border-green-800">
                 <img
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center"
                   src={project.image}
                 />
-                <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-800 bg-gray-900 opacity-0 hover:opacity-100">
+                <div className="px-8 py-10 relative z-10 w-full border-2 border-green-800 bg-gray-900 opacity-0 hover:opacity-100">
                   <h2 className="tracking-widest text-base title-font font-medium text-green-400 mb-1">
                     {project.subtitle}
                   </h2>
