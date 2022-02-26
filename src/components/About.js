@@ -12,7 +12,7 @@ export default function About() {
           </h1>
           <p className="my-8 leading-relaxed text-2xl">
             I am a junior web developer based in New York City with a passion for learning and becoming better everyday. 
-            I specialize in front-end development along with knowledge in back-end development.  
+            I specialize in front-end development along with growing knowledge in back-end technology.   
           </p>
 
           {/* Buttons */}
