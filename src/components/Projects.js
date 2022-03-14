@@ -17,7 +17,7 @@ export default function Projects() {
             Web projects I have built using various skills and technologies. <br className="hidden lg:inline-block"/>
             Visit my <a className="inline font-bold text-green-500 hover:text-malibu-700" href="https://github.com/Zsunnyfc1" target="_blank" rel="noopener noreferrer">GitHub</a> to view additional projects.
           <br></br>
-            Visit my <a className="inline font-bold text-lightblue-500 hover:text-malibu-700" href="https://www.linkedin.com/in/sunny-zhang-3a773214b/" target="_blank" rel="noopener noreferrer">linkedin</a> to learn more about me.
+            Visit my <a className="inline font-bold text-lightblue-500 hover:text-malibu-700" href="https://www.linkedin.com/in/sunny-zhang-3a773214b/" target="_blank" rel="noopener noreferrer">Linkedin</a> to learn more about me.
           </p>
         </div>
 
