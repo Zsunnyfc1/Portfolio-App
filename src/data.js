@@ -60,7 +60,16 @@ export const projects = [
     link: "https://simon-game-sz.netlify.app/",
     github: "https://github.com/Zsunnyfc1/Simon-Game"
   },
-
+  {
+    title: "Javascript Challenges",
+    subtitle: "Javascript Challenges Website",
+    description:
+      "An overview of the different challenges I completed using Javascript",
+    skills: "Built with: HTML, CSS, Javascript",
+    image: "./gif-files/javascript-challenges-app.gif",
+    link: "https://javascript-challenges-sz.netlify.app/",
+    github: "https://github.com/Zsunnyfc1/JavaScript-Algorithms-and-Data-Structures"
+  },
   
 ];
 
